@@ -1,4 +1,4 @@
-# Project -1, Eniacs Expansion to Brazil(SQL-Exploration)
+# Project -1, Eniacs Expansion to Brazil
 ## Summary
 Eniac is a leading online marketplace specializing in Apple-compatible accessories, founded in Spain ten years ago. Known for its wide catalog, competitive prices, and exceptional customer support, Eniac has expanded to neighboring countries and recently went public. With investor pressure to scale globally while retaining its customer-centric approach, Eniac is exploring an expansion into the Brazilian market.
 This project analyzes the potential expansion of Eniac into Brazil using data provided by Magist, a Brazilian SaaS company that connects small and medium-sized stores with major Brazilian marketplaces. Magist offers services like stock and warehouse management, product shipment, and customer service, which could facilitate Eniac's entry into the market.
